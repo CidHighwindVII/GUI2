@@ -1,3 +1,9 @@
-[submodule "Lib1"]
-	path = Lib1
-	url = ../Lib1
+[submodule "Common Libs/Lib1"]
+	path = Common Libs/Lib1
+	url = https://github.com/CidHighwindVII/Lib1.git
+[submodule "Common Libs/Lib2"]
+	path = Common Libs/Lib2
+	url = https://github.com/CidHighwindVII/Lib2.git
+[submodule "Common Libs/Lib3"]
+	path = Common Libs/Lib3
+	url = https://github.com/CidHighwindVII/Lib3.git
